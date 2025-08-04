@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsAppCleanArch</string>
+    <string name="article_click_label">Read article: %1$s</string>
+    <string name="article_image_description">Image for article: %1$s</string>
+</resources>
