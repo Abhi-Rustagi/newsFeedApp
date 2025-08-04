@@ -46,3 +46,7 @@ Here is a breakdown of each package and its purpose:
 
 *   `di`: The root dependency injection package.
     *   `AppModule.kt`: The main Hilt module for the application, responsible for binding interfaces (like `NewsRepository`) to their concrete implementations.
+ 
+* TOOLS USAGE
+   * https://newsapi.org/ ->  for fetching news realted content
+   * Girhub Copilot -> Helps alot for wrting basic code liek paging realted code, creating basic compose ui
